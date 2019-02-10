@@ -6,3 +6,4 @@ There has been a fundamental shift that recognizes both the interdisciplinary, t
 
 - [Contribtuor Role Ontology](https://github.com/data2health/contributor-role-ontology)
 - [Credit Ontology](https://github.com/data2health/credit-ontology)
+- [OpenRIF](https://github.com/openrif)
