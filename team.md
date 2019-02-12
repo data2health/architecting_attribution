@@ -1,7 +1,7 @@
 
-Name | Site
+Name | Site  
 -- | --
-Krisi Holmes | Northwestern 
+Krisi Holmes | Northwestern  
 Dave Eichmann | Iowa
 Marijane White | OHSU
 Annie Wescott | Northwestern 
