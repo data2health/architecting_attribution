@@ -13,7 +13,7 @@ We require a contact person for each project for administrative purposes. Each p
 Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
 Kristi Holmes (@kristiholmes) | Northwestern | TBD
-Dave Eichmann | Iowa | TBD
+Dave Eichmann (@eichmann) | Iowa | TBD
 
 ## Leads 
 
@@ -22,8 +22,7 @@ Project scientific leadership, should be 1-3 persons.
 Lead(s) (github handle) | Site
 ----------|--------------|
 Kristi Holmes (@kristiholmes) | Northwestern
-Dave Eichmann | Iowa | TBD
-
+Dave Eichmann (@eichmann) | Iowa | TBD
 
 ## Team members 
 
