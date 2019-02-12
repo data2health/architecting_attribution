@@ -35,7 +35,12 @@ See https://github.com/data2health/architecting_attribution/blob/master/team.md
 - [OpenRIF](https://github.com/openrif)
 
 ## Deliverables
-*From template - needs to be updated:* Each project should propose one or more deliverables. Examples: a released code package, a best practices document, a final survey, a set of survey results, etc.
+- [Contribtuor Role Ontology](https://github.com/data2health/contributor-role-ontology) released & enhanced
+- [CRO](https://github.com/data2health/contributor-role-ontology) ready to pilot in research information systems
+- Better understanding of how to address research output types and versioning of objects in the context of unique identifiers
+- Attribution workshop and community building
+- Local guide to support attribution in CTS at the hub level
+- A large knowledge base of contribution / attribution data available for use by CTSA hubs
 
 ## Milestones 
 *From template - needs to be updated:* Each deliverable is represented as a Milestone, but not all Milestones need be deliverables. For example, see this 'report on XYZ' is a [Deliverable Milestone](https://github.com/data2health/project-repo-template/milestone/2)
