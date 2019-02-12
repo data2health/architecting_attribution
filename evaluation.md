@@ -1,11 +1,19 @@
-# Sample evaluation plan
+# Evaluation plan
 
-*From template - needs to be updated:* Each project should propose a set of evaluation measures, recorded in a separate Evaluation Plan file, for example [here](https://github.com/data2health/project-repo-template/blob/master/evaluation.md). These will be reviewed by the Evaluation committee and approved by the Program Directors and NCATS. The Evaluation committee will meet with each Project team leads to assist. 
 
-Each project should have Evaluation-realated issues, that can be tagged with the "evaluation" tag. see [Example Evaluation Issue](https://github.com/data2health/project-repo-template/issues/5)
+Productivity | Quality & Satisfaction | Enhancements; Near-term  Impact
+-- | -- | -- 
+**Outputs achieved:** | Investigators from different disciplines and sites on team | Partnerships established for collaboration and piloting the data models; contacts are multi-sector
+Contribution Role Ontology released & enhanced | Team is interdisciplinary, inter-site, and diverse | Engagement through project meetings, briefings to key stakeholders, blog posts, and social media
+CRO ready to pilot in research information systems | Process for community to provide feedback & engage | Improved criteria and processes for faculty and staff evaluation through attribution 
+Attribution workshop | Frequency of engagement & by/to whom? |Success stories
+CTS attribution guide 
+Knowledgebase of contribution / attribution data available for use 
+**Other indicators:**
+On time/on track development
+Number of active collaborators, within/outside CD2H; beyond CTSAs when appropriate
 
-We will evaluate the outcome of this project in the following ways:
 
-- a
-- b
-- c
+
+
+
