@@ -21,7 +21,7 @@ Dave Eichmann (@eichmann) | Iowa
 
 ## Team members 
 
-See https://github.com/data2health/architecting_attribution/blob/master/team.md
+See [team members page](https://github.com/data2health/architecting_attribution/blob/master/team.md)
 
 ## Repositories
 
