@@ -42,19 +42,8 @@ See https://github.com/data2health/architecting_attribution/blob/master/team.md
 - Local guide to support attribution in CTS at the hub level
 - A large knowledge base of contribution / attribution data available for use by CTSA hubs
 
-## Milestones 
-*From template - needs to be updated:* Each deliverable is represented as a Milestone, but not all Milestones need be deliverables. For example, see this 'report on XYZ' is a [Deliverable Milestone](https://github.com/data2health/project-repo-template/milestone/2)
-
-Please create 4-8 Milestones for each project, with dates prior to August 31st.  Milestones for partially completed deliverables are acceptable: beta release of software, # interviews performed, 75% coverage, etc. 
-
-Each Milestone must have at least one Issue (aka 'ticket'), each issue should be assigned to a person, preferably one at a time; reassignments are fine. Issues with checklists showing degree of completion are also acceptable, see [example](https://github.com/data2health/project-repo-template/issues/2).
-
-GitHub help on Milestones is [here](https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests/)
-
 ## Evaluation
-*From template - needs to be updated:* Each project should propose a set of evaluation measures, recorded in a separate Evaluation Plan file, for example [here](https://github.com/data2health/project-repo-template/blob/master/evaluation.md). These will be reviewed by the Evaluation committee and approved by the Program Directors and NCATS. The Evaluation committee will meet with each Project team leads to assist. 
 
-Each project should have Evaluation-realated issues, that can be tagged with the "evaluation" tag. see [Example Evaluation Issue](https://github.com/data2health/project-repo-template/issues/5)
 
 ## Education
 *From template - needs to be updated:* Each project should propose a set of evaluation measures, recorded in a separate Evaluation Plan file. 
