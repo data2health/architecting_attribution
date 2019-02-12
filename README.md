@@ -41,7 +41,7 @@ See https://github.com/data2health/architecting_attribution/blob/master/team.md
 We encourage the community to get involved. To get involved, please [onboard using this form](http://bit.ly/cd2h-onboarding-form).
 
 ## Working documents
-[The project Google drive folder](https://drive.google.com/drive/folders/1KYBGNq5VY-7366M9PFFbZCcY2sTgA-nh) is accessible to onboarded participants. 
+The project [Google drive folder](https://drive.google.com/drive/folders/1KYBGNq5VY-7366M9PFFbZCcY2sTgA-nh) is accessible to onboarded participants. 
 
 ## Slack room
 [The Architecting Architecture slack room](https://cd2h.slack.com/messages/CE75A2EF3) is accessible to onboarded participants. You will not automatically be added to Slack, please join via the link above.
