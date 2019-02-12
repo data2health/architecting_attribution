@@ -8,8 +8,6 @@ There has been a fundamental shift that recognizes both the interdisciplinary, t
 
 ## Contact person
 
-We require a contact person for each project for administrative purposes. Each project should also have a CD2H Program director assigned.
-
 Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
 Kristi Holmes (@kristiholmes) | Northwestern | Melissa Haendel (@mellybelly)
