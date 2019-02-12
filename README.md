@@ -14,9 +14,7 @@ Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
 Kristi Holmes (@kristiholmes) | Northwestern | Melissa Haendel (@mellybelly)
 
-## Leads 
-
-Project scientific leadership, should be 1-3 persons. 
+## Leads  
 
 Lead(s) (github handle) | Site
 ----------|--------------|
@@ -42,11 +40,7 @@ See https://github.com/data2health/architecting_attribution/blob/master/team.md
 - A large knowledge base of contribution / attribution data available for use by CTSA hubs
 
 ## Get involved
-We encourage the community to get involved. To get involved, please [onboard](http://bit.ly/cd2h-onboarding-form) using this form.
-
-*From template - needs to be updated:* We require all CD2H projects to have non-CD2H CTSA participants, as CD2H is a CTSA coordinating center. Each project should include an Engagement plan file, example [here](https://github.com/data2health/project-repo-template/blob/master/engagement.md). 
-
-*From template - needs to be updated:* Please tag any engagment related issues with "engagement".
+We encourage the community to get involved. To get involved, please [onboard using this form](http://bit.ly/cd2h-onboarding-form).
 
 ## Working documents
 [The project Google drive folder](https://drive.google.com/drive/folders/1KYBGNq5VY-7366M9PFFbZCcY2sTgA-nh) is accessible to onboarded participants. 
