@@ -13,7 +13,6 @@ We require a contact person for each project for administrative purposes. Each p
 Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
 Kristi Holmes (@kristiholmes) | Northwestern | Melissa Haendel (@mellybelly)
-Dave Eichmann (@eichmann) | Iowa | 
 
 ## Leads 
 
@@ -41,18 +40,6 @@ See https://github.com/data2health/architecting_attribution/blob/master/team.md
 - Attribution workshop and community building
 - Local guide to support attribution in CTS at the hub level
 - A large knowledge base of contribution / attribution data available for use by CTSA hubs
-
-## Evaluation
-
-
-## Education
-*From template - needs to be updated:* Each project should propose a set of evaluation measures, recorded in a separate Evaluation Plan file. 
-Please reference any of the following that apply: 
-- Educational resources that will be generated (these can be milestones and/or files in the repo)
-- Educational opportunities (please indicate for which type of learner and how to participate)
-- Best practices guides
-
-Please include education related issues where relevant, tagged with "education". 
 
 ## Get involved
 We encourage the community to get involved. To get involved, please [onboard](http://bit.ly/cd2h-onboarding-form) using this form.
