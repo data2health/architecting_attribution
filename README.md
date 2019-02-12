@@ -25,9 +25,9 @@ Kristi Holmes (@kristiholmes) | Northwestern
 
 ## Team members 
 
-No action required here, a list of team members will be imported and linked below.
+A list of team members will be imported and linked below (_in progress_).
 
-See https://github.com/data2health/project-repo-template/tree/master/team.md
+See https://github.com/data2health/architecting_attribution/blob/master/team.md
 
 ## Repositories
 
