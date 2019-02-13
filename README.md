@@ -32,7 +32,7 @@ See [team members page](https://github.com/data2health/architecting_attribution/
 - [Contribtuor Role Ontology](https://github.com/data2health/contributor-role-ontology)
 - [Credit Ontology](https://github.com/data2health/credit-ontology)
 - [CTS Personas](https://github.com/data2health/CTS-Personas)
-- [Direct2experts-refernece-implementation](https://github.com/data2health/direct2experts-reference-implementation)
+- [Direct2experts-reference-implementation](https://github.com/data2health/direct2experts-reference-implementation)
 - [FederationTagLib](https://github.com/data2health/FederationTagLib)
 - [Geonames](https://github.com/data2health/geonames)
 - [GeoNamesTagLib](https://github.com/data2health/GeoNamesTagLib)
