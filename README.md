@@ -50,7 +50,7 @@ See [team members page](https://github.com/data2health/architecting_attribution/
 - [VIVO-ISF](https://github.com/openrif/vivo-isf-ontology)
 
 ## Deliverables
-- [Contribtuor Role Ontology](https://github.com/data2health/contributor-role-ontology) released & enhanced
+- [Contribtuor Role Ontology (CRO)](https://github.com/data2health/contributor-role-ontology) released & enhanced
 - [CRO](https://github.com/data2health/contributor-role-ontology) ready to pilot in research information systems
 - Better understanding of how to address research output types and versioning of objects in the context of unique identifiers
 - Attribution workshop and community building
