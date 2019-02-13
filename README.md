@@ -47,7 +47,7 @@ See [team members page](https://github.com/data2health/architecting_attribution/
 - [Research Outputs Ontology](https://github.com/data2health/research-outputs-ontology)
 - [SPARQLTagLib](https://github.com/data2health/SPARQLTagLib)
 - [Viva](https://github.com/data2health/viva)
-- [VIVO-ISF](https://github.com/data2health/VIVOISF)
+- [VIVO-ISF](https://github.com/openrif/vivo-isf-ontology)
 
 ## Deliverables
 - [Contribtuor Role Ontology](https://github.com/data2health/contributor-role-ontology) released & enhanced
