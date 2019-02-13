@@ -25,9 +25,29 @@ See [team members page](https://github.com/data2health/architecting_attribution/
 
 ## Repositories
 
+- [Acknowledgements](https://github.com/data2health/acknowledgments)
+- [AcknowledgementsTagLib](https://github.com/data2health/AcknowledgementsTagLib)
+- [CD2H Search](https://github.com/data2health/CD2H-search)
+- [ClinicalTraislTagLib](https://github.com/data2health/ClinicalTrialsTagLib)
 - [Contribtuor Role Ontology](https://github.com/data2health/contributor-role-ontology)
 - [Credit Ontology](https://github.com/data2health/credit-ontology)
+- [CTS Personas](https://github.com/data2health/CTS-Personas)
+- [Direct2experts-refernece-implementation](https://github.com/data2health/direct2experts-reference-implementation)
+- [FederationTagLib](https://github.com/data2health/FederationTagLib)
+- [Geonames](https://github.com/data2health/geonames)
+- [GeoNamesTagLib](https://github.com/data2health/GeoNamesTagLib)
+- [Gitforager](https://github.com/data2health/gitforager)
+- [GitHubTagLib](https://github.com/data2health/GitHubTagLib)
+- [GraphTagLib](https://github.com/data2health/GraphTagLib)
+- [Grid](https://github.com/data2health/grid)
+- [GRIDRDFTagLib](https://github.com/data2health/GRIDRDFTagLib)
+- [MEDLINETagLib](https://github.com/data2health/MEDLINETagLib)
 - [OpenRIF](https://github.com/openrif)
+- [ORCiDTagLib](https://github.com/data2health/ORCiDTagLib)
+- [Research Outputs Ontology](https://github.com/data2health/research-outputs-ontology)
+- [SPARQLTagLib](https://github.com/data2health/SPARQLTagLib)
+- [Viva](https://github.com/data2health/viva)
+- [VIVOISF](https://github.com/data2health/VIVOISF)
 
 ## Deliverables
 - [Contribtuor Role Ontology](https://github.com/data2health/contributor-role-ontology) released & enhanced
