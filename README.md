@@ -57,6 +57,10 @@ See [team members page](https://github.com/data2health/architecting_attribution/
 - Local guide to support attribution in CTS at the hub level
 - A large knowledge base of contribution / attribution data available for use by CTSA hubs
 
+## Milestones 
+
+View the project [milestones here](https://github.com/data2health/architecting_attribution/milestones)
+
 ## Get involved
 We encourage the community to get involved. To get involved, please [onboard using this form](http://bit.ly/cd2h-onboarding-form).
 
