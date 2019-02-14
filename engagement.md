@@ -8,5 +8,4 @@ A number of hubs, particularly those actively developing and/or enhancing the se
 
 # Attribution workshop
 
-Dates are being finalized for a community workshop in Chicago in the late spring in 2019. Check back for more information.
-
+Dates are being finalized for a community workshop in Chicago in the late spring in 2019. Register interest [here](https://goo.gl/forms/WFovPhtinGYg5oTm1). 
