@@ -25,8 +25,8 @@ See [team members page](https://github.com/data2health/architecting_attribution/
 
 ## Repositories
 
-- [Acknowledgements](https://github.com/data2health/acknowledgments)
-- [AcknowledgementsTagLib](https://github.com/data2health/AcknowledgementsTagLib)
+- [Acknowledgements](https://github.com/data2health/acknowledgments): Application scaffold for entities and relationships extracted from PubMed Central publications.
+- [AcknowledgementsTagLib](https://github.com/data2health/AcknowledgementsTagLib): JSP Tag library providing access to entities and relationships extracted from PubMed Central publications
 - [CD2H Search](https://github.com/data2health/CD2H-search)
 - [ClinicalTraislTagLib](https://github.com/data2health/ClinicalTrialsTagLib)
 - [Contribtuor Role Ontology](https://github.com/data2health/contributor-role-ontology)
