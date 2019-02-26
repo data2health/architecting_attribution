@@ -34,7 +34,7 @@ Repository | Description
  [Credit Ontology](https://github.com/data2health/credit-ontology) | An OWL implementation of CRediT; a high-level classification of the diverse roles performed in the work leading to a published research output in the sciences
  [CTS Personas](https://github.com/data2health/CTS-Personas) | Translational workforce roles and persona profiles
  [Direct2experts-reference-implementation](https://github.com/data2health/direct2experts-reference-implementation) | A JSP reference implementation for the direct2experts federated search protocol
- [FederationTagLib](https://github.com/data2health/FederationTagLib) | A JSP tag library supporting the Direct2Experts API.
+ [FederationTagLib](https://github.com/data2health/FederationTagLib) | A JSP tag library supporting the Direct2Experts API
  [Geonames](https://github.com/data2health/geonames) | Application scaffold for GeoNames data
  [GeoNamesTagLib](https://github.com/data2health/GeoNamesTagLib) | JSP Tag library providing access to a local cache of GeoNames data
  [Gitforager](https://github.com/data2health/gitforager) | JSP application framework for navigating a local copy of targeted GitHub metadata
