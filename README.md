@@ -72,4 +72,4 @@ We encourage the community to get involved. To get involved, please [onboard usi
 The project [Google drive folder](https://drive.google.com/drive/folders/1KYBGNq5VY-7366M9PFFbZCcY2sTgA-nh) is accessible to onboarded participants. 
 
 ## Slack room
-[The Architecting Architecture slack room](https://cd2h.slack.com/messages/CE75A2EF3) is accessible to onboarded participants. You will not automatically be added to Slack, please join via the link above.
+[The Architecting Attribution slack room](https://cd2h.slack.com/messages/CE75A2EF3) is accessible to onboarded participants. You will not automatically be added to Slack, please join via the link above.
