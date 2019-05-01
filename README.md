@@ -1,4 +1,4 @@
-# Architecting Attribution
+# Architecting Attribution 
 
 ## Problem statement
 It is very difficult to know who is contributing to translational science. This project will allow the tracking and attribution of our diverse and non-traditional translational workforce to support greater knowledge of what skills and activities are needed, and to incentivize participation.
@@ -8,6 +8,9 @@ There has been a fundamental shift that recognizes both the interdisciplinary, t
 
 ## Alignment to program objectives
 This work helps to support and enhance a collaborative informatics community by fostering and promoting the development of an academic attribution and reimbursement framework for informatics products and processes. These processes could facilitate  the contribution to be used for academic promotion and recognition.
+
+## Want to work with us? Get involved
+**Please [go here](https://github.com/data2health/architecting_attribution/blob/master/engagement.md) to learn more about our needs, good first contributions, and more! We're excited to have you join us.** 
 
 ## Contact person
 
@@ -64,9 +67,6 @@ Repository | Description
 ## Milestones 
 
 View the project [milestones here](https://github.com/data2health/architecting_attribution/milestones)
-
-## Get involved
-We encourage the community to get involved. To get involved, please [onboard using this form](http://bit.ly/cd2h-onboarding-form).
 
 ## Working documents
 The project [Google drive folder](https://drive.google.com/drive/folders/1KYBGNq5VY-7366M9PFFbZCcY2sTgA-nh) is accessible to onboarded participants. 
