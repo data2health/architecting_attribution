@@ -34,6 +34,7 @@ ____________
 * Collaboration with CD2H Partners - Bi-weekly sprint planning meetings
 * Collaboration with CD2H Partners - Daily stand up with team members
 * Conferences/Workshops - Attribution workshop in Chicago (Fall 2019)
+* Conferences/Workshop - Metadata workshop at Scripps (TBD)
 * Conferences/Workshops - Attend Open Source Conference-[OSCON](https://conferences.oreilly.com/oscon/oscon-or)(Summer 2019)
 * Create documentation and support for the community
 * Periodic briefs and/or presentations to key stakeholders
