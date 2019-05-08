@@ -12,7 +12,7 @@ This work helps to support and enhance a collaborative informatics community by 
 ## Want to work with us? Get involved
 * Please [visit our Engagement page](https://github.com/data2health/architecting_attribution/blob/master/engagement.md) to learn more about our needs, how to get on board, good first contributions, and more! We're excited to have you join us.
 
-Want to ask a question or just say hi? Please do! If you have already onboarded you can find us on the #Attribution channel on the [CD2H Slack](https://cd2h.slack.com/messages)
+* Want to ask a question or just say hi? Please do! If you have already onboarded you can find us on the #Attribution channel on the [CD2H Slack](https://cd2h.slack.com/messages)
 
 ## Contact person
 
