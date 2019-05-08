@@ -6,6 +6,7 @@
 * Architecting Attribution Workshop (Fall 2019) Chicago - During this meeting we will gather stakeholders, discuss enhancements and implementation of work products, and demonstrate a tool that will help CTSA hubs and scholars easily visualize their contributions
 * FORCE2019 Workshop submission (Fall 2019) 
 * Conferences/Workshop - Metadata workshop at Scripps (TBD)
+* Archetecting Attribution Workshop at Northwestern (Fall 2019)
 * Conferences/Workshops - Attend Open Source Conference-[OSCON](https://conferences.oreilly.com/oscon/oscon-or)(Summer 2019)
 * Create documentation and support for the community
 
