@@ -10,7 +10,9 @@ There has been a fundamental shift that recognizes both the interdisciplinary, t
 This work helps to support and enhance a collaborative informatics community by fostering and promoting the development of an academic attribution and reimbursement framework for informatics products and processes. These processes could facilitate  the contribution to be used for academic promotion and recognition.
 
 ## Want to work with us? Get involved
-**Please [go here](https://github.com/data2health/architecting_attribution/blob/master/engagement.md) to learn more about our needs, good first contributions, and more! We're excited to have you join us.** 
+* Please [visit our Engagement page](https://github.com/data2health/architecting_attribution/blob/master/engagement.md) to learn more about our needs, how to get on board, good first contributions, and more! We're excited to have you join us.
+
+Want to ask a question or just say hi? Please do! If you have already onboarded you can find us on the #Attribution channel on the [CD2H Slack](https://cd2h.slack.com/messages)
 
 ## Contact person
 
