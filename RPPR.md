@@ -1,5 +1,5 @@
 # Budget
-Don't edit this - the RPPR generater populates this section
+Don't edit this - the RPPR generator populates this section
 
 # Research Design
 
