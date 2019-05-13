@@ -23,7 +23,7 @@ This team has two integral members who are allocated at a small percentage to th
 - 6/1/19 finalize annotation file format
 - 9/1/19 demonstrator for the individual (boilerplate text generator based on CRO for a DOI)
 - 10/1/19 Credit, Attribution, and Incentives workshop
-- 3/1/20: implementation of data models into external workflows to pilot and gather data.
+- 3/1/20 implementation of data models into external workflows to pilot and gather data.
 
 # Potential Pitfalls and Alternative Strategies
 **Demonstration project.** We don’t have a clear picture of the demonstration project development process or responsible party. We’re developing a person-based process for identifying contributor roles, based on the Northwestern Promotion and Tenure documentation, specifically the critical references form, in partnership with the Office of Faculty Affairs, as a guide to faculty members to better identify and claim contributor roles for research objects. This work will allow us to demonstrate the value and power of the data models.
