@@ -38,7 +38,7 @@ Repository | Description
 [AcknowledgementsTagLib](https://github.com/data2health/AcknowledgementsTagLib) | JSP Tag library providing access to entities and relationships extracted from PubMed Central publications
 [CD2H Search](https://github.com/data2health/CD2H-search) | Testbed for search prototypes for the People, Expertise and Attribution working group of CD2H
  [ClinicalTraislTagLib](https://github.com/data2health/ClinicalTrialsTagLib) | JSP Tag library providing access to a local cache of data from clinicaltrials.gov
- [Contribtuor Role Ontology](https://github.com/data2health/contributor-role-ontology) | This ontology provides contribution roles for use in crediting persons or organizations
+ [Contributor Role Ontology](https://github.com/data2health/contributor-role-ontology) | This ontology provides contribution roles for use in crediting persons or organizations
  [Credit Ontology](https://github.com/data2health/credit-ontology) | An OWL implementation of CRediT; a high-level classification of the diverse roles performed in the work leading to a published research output in the sciences
  [CTS Personas](https://github.com/data2health/CTS-Personas) | Translational workforce roles and persona profiles
  [Direct2experts-reference-implementation](https://github.com/data2health/direct2experts-reference-implementation) | A JSP reference implementation for the direct2experts federated search protocol
