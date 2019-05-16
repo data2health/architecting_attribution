@@ -70,6 +70,21 @@ Repository | Description
 
 View the project [milestones here](https://github.com/data2health/architecting_attribution/milestones)
 
+## Engagement
+
+Our engagement efforts can be found [here](https://github.com/data2health/architecting_attribution/blob/master/engagement.md).
+
+## Evaluation
+
+Our evaluation plan can be found [here](https://github.com/data2health/architecting_attribution/blob/master/evaluation.md).
+
+## Education
+
+Our education plan can be found [here](https://github.com/data2health/architecting_attribution/blob/master/education.md).
+
+## Working documents
+
+Coming soon
 ## Working documents
 The project [Google drive folder](https://drive.google.com/drive/folders/1KYBGNq5VY-7366M9PFFbZCcY2sTgA-nh) is accessible to onboarded participants. 
 
