@@ -66,11 +66,11 @@ Our evaluation plan can be found [here](https://github.com/data2health/architect
 
 Our education plan can be found [here](https://github.com/data2health/architecting_attribution/blob/master/education.md).
 
-## Working documents
+## Code of Conduct
+Our Code of Conduct is found[here] https://github.com/data2health/architecting_attribution/blob/master/CodeOfConduct.md
 
-Coming soon
 ## Working documents
 The project [Google drive folder](https://drive.google.com/drive/folders/1KYBGNq5VY-7366M9PFFbZCcY2sTgA-nh) is accessible to onboarded participants. 
 
 ## Slack room
-[The Architecting Attribution slack room](https://cd2h.slack.com/messages/CE75A2EF3) is accessible to onboarded participants. You will not automatically be added to Slack, please join via the link above.
+[The Architecting Attribution slack room](https://cd2h.slack.com/messages/CE75A2EF3) is accessible to onboarded participants. You will not automatically be added to Slack, please join via the link above. If you want to know more, our Engagement link above is a great place to start. 
