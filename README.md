@@ -43,23 +43,22 @@ Repository | Description
 ## Deliverables
 - [CRedIT Ontology](https://github.com/data2health/credit-ontology)
 - [Contribtuor Role Ontology (CRO)](https://github.com/data2health/contributor-role-ontology) released & enhanced
-** CRO is available in various ontological resources, such as EBI OLS, bioportal, Ontobee, etc.
-** CRO is available in multiple formats (OWL, RDF, RDF/XML, csv, etc.)
+ - CRO is available in various ontological resources, such as EBI OLS, bioportal, Ontobee, etc.
+ - CRO is available in multiple formats (OWL, RDF, RDF/XML, csv, etc.)
 - [CRO](https://github.com/data2health/contributor-role-ontology) ready to pilot in research information systems
-
-** CTSA projcts and community systems have evaluated requirements for inclusion of CRO in their systems (i.e. peer review systems could provide reviewing credit using CRO) 
+- CTSA projcts and community systems have evaluated requirements for inclusion of CRO in their systems (i.e. peer review systems could provide reviewing credit using CRO) 
 - Better understanding of how to address research output types and versioning of objects in the context of unique identifiers
 - Attribution workshop and community building
-** Workshop brings together community members from across different aspects of the CTSA program and beyond
-** Community implementation requirements are documented
-** First implementation partners are identified and processes planned 
+ - Workshop brings together community members from across different aspects of the CTSA program and beyond
+ - Community implementation requirements are documented
+ - First implementation partners are identified and processes planned 
 - Local guide to support attribution in CTS at the hub level
-** Best practices for attribution and use of CRO are documented in the Reusable Data Guidebook
-** Guide to support attribution best practices at the person level
-** Guide to support attribution best practices at the organization level
+ - Best practices for attribution and use of CRO are documented in the Reusable Data Guidebook
+ - Guide to support attribution best practices at the person level
+ - Guide to support attribution best practices at the organization level
 - A large knowledge base of contribution / attribution data available for use by CTSA hubs
-** Strategy to incorporate research resource types into attribution work
-** Annotation file format defined and implemented
+ - Strategy to incorporate research resource types into attribution work
+ - Annotation file format defined and implemented
 
 ## Milestones 
 
