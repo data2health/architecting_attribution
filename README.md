@@ -41,8 +41,11 @@ Repository | Description
  [Research Outputs Ontology](https://github.com/data2health/research-outputs-ontology) | This ontology provides scholarly research outputs, for use in crediting persons or organizations
 
 ## Deliverables
+- [CRedIT Ontology](https://github.com/data2health/credit-ontology)
 - [Contribtuor Role Ontology (CRO)](https://github.com/data2health/contributor-role-ontology) released & enhanced
 - [CRO](https://github.com/data2health/contributor-role-ontology) ready to pilot in research information systems
+- strategy to incorporate research resource types into attribution work
+- Annotation file
 - Attribution workshop and community building
 - Local guide to support attribution best practices at the person level
 - Local guide to support attribution best practices at the organization level
