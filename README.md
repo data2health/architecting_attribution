@@ -43,10 +43,9 @@ Repository | Description
 ## Deliverables
 - [Contribtuor Role Ontology (CRO)](https://github.com/data2health/contributor-role-ontology) released & enhanced
 - [CRO](https://github.com/data2health/contributor-role-ontology) ready to pilot in research information systems
-- Better understanding of how to address research output types and versioning of objects in the context of unique identifiers
 - Attribution workshop and community building
-- Local guide to support attribution in CTS at the hub level
-- A large knowledge base of contribution / attribution data available for use by CTSA hubs
+- Local guide to support attribution best practices at the person level
+- Local guide to support attribution best practices at the organization level
 
 ## Milestones 
 
