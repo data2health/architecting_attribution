@@ -47,7 +47,6 @@ Repository | Description
   - CRO is available in multiple formats (OWL, RDF, RDF/XML, csv, etc.)
 - [CRO](https://github.com/data2health/contributor-role-ontology) ready to pilot in research information systems
 - CTSA projcts and community systems have evaluated requirements for inclusion of CRO in their systems (i.e. peer review systems could provide reviewing credit using CRO) 
-- Better understanding of how to address research output types and versioning of objects in the context of unique identifiers
 - Attribution workshop and community building
   - Workshop brings together community members from across different aspects of the CTSA program and beyond
   - Community implementation requirements are documented
