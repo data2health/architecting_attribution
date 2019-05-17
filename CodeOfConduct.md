@@ -11,7 +11,7 @@ appearance, race, religion, or sexual identity and orientation.
 
 ## Our Standards
 
-We believe in behaviors that contributes to creating a positive environment. These include:
+We believe in behaviors that contribute to creating a positive environment. These include:
 
 * Using welcoming and inclusive language
 * Being respectful of differing viewpoints and experiences
