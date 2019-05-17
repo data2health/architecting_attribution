@@ -10,20 +10,25 @@ The Architecting Attribution team runs a version of the Agile methodology. Agile
 This team has two integral members who are allocated at a small percentage to this project. The Agile framework allows the team to maximize productivity and collaboration to meet its goal. Piecing out what is a very large task into management chunks has seen our progress accelerate. Previously the team had operated on a more traditional waterfall methodology. This was not as effective as blockers were mainly discussed at Core meetings with little time for resolution. Team members lost valuable time with these waits. As work was not portioned out, it was not always clear what needed to be tackled first or upon what other people, decisions, or processes progress was dependent. 
 
 # Expected Outcomes
-- Contribution Role Ontology
-- Digital research object taxonomy
+- [CRedIT Ontology](https://github.com/data2health/credit-ontology)
+- [Contribtuor Role Ontology (CRO)](https://github.com/data2health/contributor-role-ontology) released & enhanced
+- [CRO](https://github.com/data2health/contributor-role-ontology) ready to pilot in research information systems
+- strategy to incorporate research resource types into attribution work (e.g., digital research resource type taxonomy)
 - Annotation file format
-- Attribution workflow for research information systems
-- Local guide to support attribution in CTS at the hub level
-- Demonstrator for the individual (boilerplate text generator based on CRO for a DOI)
+- Attribution workshop and community building
+- Local guide to support attribution best practices at the person level
+- Local guide to support attribution best practices at the organization level
+- Demonstrator for the individual
 
 # Timeline (monthly)
 - 4/1/19 enhanced contribution role ontology
 - 5/1/19 finalize strategy for digital object types
 - 6/1/19 finalize annotation file format
-- 9/1/19 demonstrator for the individual (boilerplate text generator based on CRO for a DOI)
+- 9/1/19 demonstrator for the individual 
 - 10/1/19 Credit, Attribution, and Incentives workshop
-- 3/1/20 implementation of data models into external workflows to pilot and gather data.
+- 12/15/19 Local guide to support attribution best practices at the person level
+- 12/15/19 Local guide to support attribution best practices at the organization level
+- 3/1/20 implementation of data models into external workflows to pilot and gather data
 
 # Potential Pitfalls and Alternative Strategies
 **Demonstration project.** We don’t have a clear picture of the demonstration project development process or responsible party. We’re developing a person-based process for identifying contributor roles, based on the Northwestern Promotion and Tenure documentation, specifically the critical references form, in partnership with the Office of Faculty Affairs, as a guide to faculty members to better identify and claim contributor roles for research objects. This work will allow us to demonstrate the value and power of the data models.
