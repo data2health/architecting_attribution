@@ -67,7 +67,7 @@ Our evaluation plan can be found [here](https://github.com/data2health/architect
 Our education plan can be found [here](https://github.com/data2health/architecting_attribution/blob/master/education.md).
 
 ## Code of Conduct
-Our Code of Conduct is found[here] https://github.com/data2health/architecting_attribution/blob/master/CodeOfConduct.md
+Our Code of Conduct is found [here](https://github.com/data2health/architecting_attribution/blob/master/CodeOfConduct.md)
 
 ## Working documents
 The project [Google drive folder](https://drive.google.com/drive/folders/1KYBGNq5VY-7366M9PFFbZCcY2sTgA-nh) is accessible to onboarded participants. 
