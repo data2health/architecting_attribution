@@ -55,12 +55,11 @@ Repository | Description
 ** First implementation partners are identified and processes planned 
 - Local guide to support attribution in CTS at the hub level
 ** Best practices for attribution and use of CRO are documented in the Reusable Data Guidebook
+** Guide to support attribution best practices at the person level
+** Guide to support attribution best practices at the organization level
 - A large knowledge base of contribution / attribution data available for use by CTSA hubs
-- strategy to incorporate research resource types into attribution work
-- Annotation file
-- Attribution workshop and community building
-- Local guide to support attribution best practices at the person level
-- Local guide to support attribution best practices at the organization level
+** Strategy to incorporate research resource types into attribution work
+** Annotation file format defined and implemented
 
 ## Milestones 
 
