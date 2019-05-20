@@ -53,8 +53,8 @@ Repository | Description
 - Local guide to support attribution in CTS at the hub level
   - Best practices for attribution and use of attribution are documented in the Reusable Data Guidebook
 - An increased knowledge base of contribution / attribution data available
-  - Strategy to incorporate research resource types into attribution work
-  - Annotation file format defined and implemented
+  - Summary statement describing the components of the architecting attribution project and how they function together. 
+  - Annotation file format defined. An example will be provided. 
 
 ## Milestones 
 
