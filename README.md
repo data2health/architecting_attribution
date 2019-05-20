@@ -42,11 +42,10 @@ Repository | Description
 
 ## Deliverables
 - [CRedIT Ontology](https://github.com/data2health/credit-ontology)
-- [Contribtuor Role Ontology (CRO)](https://github.com/data2health/contributor-role-ontology) released & enhanced
+- [Contributor Role Ontology (CRO)](https://github.com/data2health/contributor-role-ontology) released & enhanced
   - CRO is available in various ontological resources, such as EBI OLS, bioportal, Ontobee, etc.
   - CRO is available in multiple formats (OWL, RDF, RDF/XML, csv, etc.)
 - [CRO](https://github.com/data2health/contributor-role-ontology) ready to pilot in research information systems
-- CTSA projcts and community systems have evaluated requirements for inclusion of CRO in their systems (i.e. peer review systems could provide reviewing credit using CRO) 
 - Attribution workshop and community building
   - Workshop brings together community members from across different aspects of the CTSA program and beyond
   - Community implementation requirements are documented
