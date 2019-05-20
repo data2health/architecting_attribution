@@ -17,7 +17,7 @@ This work helps to support and enhance a collaborative informatics community by 
 ## Contact person
 
 Point person (github handle) | Site 
-----------|--------------|---------------
+----------|--------------|
 Kristi Holmes (@kristiholmes) | Northwestern 
 
 ## Leads  
@@ -52,8 +52,8 @@ Repository | Description
   - Community implementation requirements are documented
   - First implementation partners are identified and processes planned 
 - Local guide to support attribution in CTS at the hub level
-  - Best practices for attribution and use of attribution are documented in the Reusable Data Guidebook (-
-- A large knowledge base of contribution / attribution data available for use by CTSA hubs
+  - Best practices for attribution and use of attribution are documented in the Reusable Data Guidebook
+- An increased knowledge base of contribution / attribution data available
   - Strategy to incorporate research resource types into attribution work
   - Annotation file format defined and implemented
 
