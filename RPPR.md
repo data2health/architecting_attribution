@@ -10,15 +10,8 @@ The Architecting Attribution team runs a version of the Agile methodology. Agile
 This team has two integral members who are allocated at a small percentage to this project. The Agile framework allows the team to maximize productivity and collaboration to meet its goal. Piecing out what is a very large task into management chunks has seen our progress accelerate. Previously the team had operated on a more traditional waterfall methodology. This was not as effective as blockers were mainly discussed at Core meetings with little time for resolution. Team members lost valuable time with these waits. As work was not portioned out, it was not always clear what needed to be tackled first or upon what other people, decisions, or processes progress was dependent. 
 
 # Expected Outcomes
-- [CRedIT Ontology](https://github.com/data2health/credit-ontology)
-- [Contribtuor Role Ontology (CRO)](https://github.com/data2health/contributor-role-ontology) released & enhanced
-- [CRO](https://github.com/data2health/contributor-role-ontology) ready to pilot in research information systems
-- strategy to incorporate research resource types into attribution work (e.g., digital research resource type taxonomy)
-- Annotation file format
-- Attribution workshop and community building
-- Local guide to support attribution best practices at the person level
-- Local guide to support attribution best practices at the organization level
-- Demonstrator for the individual
+- Technical components to compute attribution in research information systems, publishing platforms, and repositories, among other stakeholders
+- Framework to empower individuals to better identify and represent their contributions, and simultaneously allowing outside persons or groups to understand these contributions in the context of work on a project, research group, or discipline
 
 # Deliverables
  [CRedIT Ontology](https://github.com/data2health/credit-ontology)
@@ -31,18 +24,19 @@ This team has two integral members who are allocated at a small percentage to th
   - Community implementation requirements are documented
   - First implementation partners are identified and processes planned 
 - Local guide to support attribution in CTS at the hub level
-  - Best practices for attribution and use of attribution are documented in the Reusable Data Guidebook
+  - Best practices for attribution and use of attribution are documented in the Reusable Data Guidebook (RDG)
 - An increased knowledge base of contribution / attribution data available
   - Summary statement describing the components of the architecting attribution project and how they function together. 
   - Annotation file format defined. An example will be provided.
 
 # Timeline (monthly)
-- 4/1/19 enhanced contribution role ontology
-- 5/1/19 finalize strategy for digital object types
-- 6/1/19 finalize annotation file format
-- 9/1/19 demonstrator for the individual 
+- 4/1/19 CRedIT ontology [complete]
+- 4/1/19 enhanced contribution role ontology [complete]
+- 5/1/19 finalize strategy for digital object types [complete]
+- 6/1/19 finalize annotation file format [in progress]
+- 9/1/19 demonstrator for the individual [ongoing]
 - 10/1/19 Credit, Attribution, and Incentives workshop
-- 12/15/19 Local guide to support attribution best practices at the person level
+- 12/15/19 Best practices for attribution and use of attribution guide in RDG
 - 12/15/19 Local guide to support attribution best practices at the organization level
 - 3/1/20 implementation of data models into external workflows to pilot and gather data
 
