@@ -14,17 +14,16 @@ This team has two integral members who are allocated at a small percentage to th
 - Framework to empower individuals to better identify and represent their contributions, and simultaneously allowing outside persons or groups to understand these contributions in the context of work on a project, research group, or discipline
 
 # Deliverables
- [CRedIT Ontology](https://github.com/data2health/credit-ontology)
+- [CRedIT Ontology](https://github.com/data2health/credit-ontology)
 - [Contributor Role Ontology (CRO)](https://github.com/data2health/contributor-role-ontology) released & enhanced
-  - CRO is available in various ontological resources, such as EBI OLS, bioportal, Ontobee, etc.
-  - CRO is available in multiple formats (OWL, RDF, RDF/XML, csv, etc.)
+  - CRO is available in various ontological resources (Bioportal, Ontobee)
+  - CRO is available in multiple formats (OWL, OBO)
 - [CRO](https://github.com/data2health/contributor-role-ontology) ready to pilot in research information systems
 - Attribution workshop and community building
   - Workshop brings together community members from across different aspects of the CTSA program and beyond
   - Community implementation requirements are documented
   - First implementation partners are identified and processes planned 
-- Local guide to support attribution in CTS at the hub level
-  - Best practices for attribution and use of attribution are documented in the Reusable Data Guidebook (RDG)
+- Best practices for attribution and use of attribution are documented in the Reusable Data Guidebook (RDG)
 - An increased knowledge base of contribution / attribution data available
   - Summary statement describing the components of the architecting attribution project and how they function together. 
   - Annotation file format defined. An example will be provided.
@@ -37,7 +36,6 @@ This team has two integral members who are allocated at a small percentage to th
 - 9/1/19 demonstrator for the individual [ongoing]
 - 10/1/19 Credit, Attribution, and Incentives workshop
 - 12/15/19 Best practices for attribution and use of attribution guide in RDG
-- 12/15/19 Local guide to support attribution best practices at the organization level
 - 3/1/20 implementation of data models into external workflows to pilot and gather data
 
 # Potential Pitfalls and Alternative Strategies
