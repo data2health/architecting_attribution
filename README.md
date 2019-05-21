@@ -43,18 +43,17 @@ Repository | Description
 ## Deliverables
 - [CRedIT Ontology](https://github.com/data2health/credit-ontology)
 - [Contributor Role Ontology (CRO)](https://github.com/data2health/contributor-role-ontology) released & enhanced
-  - CRO is available in various ontological resources, such as EBI OLS, bioportal, Ontobee, etc.
-  - CRO is available in multiple formats (OWL, RDF, RDF/XML, csv, etc.)
+  - CRO is available in various ontological resources (Bioportal, Ontobee)
+  - CRO is available in multiple formats (OWL, OBO)
 - [CRO](https://github.com/data2health/contributor-role-ontology) ready to pilot in research information systems
 - Attribution workshop and community building
   - Workshop brings together community members from across different aspects of the CTSA program and beyond
   - Community implementation requirements are documented
   - First implementation partners are identified and processes planned 
-- Local guide to support attribution in CTS at the hub level
-  - Best practices for attribution and use of attribution are documented in the Reusable Data Guidebook
+- Best practices for attribution and use of attribution are documented in the Reusable Data Guidebook (RDG)
 - An increased knowledge base of contribution / attribution data available
   - Summary statement describing the components of the architecting attribution project and how they function together. 
-  - Annotation file format defined. An example will be provided. 
+  - Annotation file format defined. An example will be provided.
 
 ## Milestones 
 
