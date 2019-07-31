@@ -3,8 +3,8 @@
 ## Lead(s)
 Name | GitHub Handle | Site
 -- | -- | --
-Dave Eichmann | [eichmann](http://github.com/eichmann) | Iowa
 Kristi Holmes | [kristiholmes](http://github.com/kristiholmes) | Northwestern
+Dave Eichmann | [eichmann](http://github.com/eichmann) | Iowa
 
 ## Contributor(s)
 Name | GitHub Handle | Site
