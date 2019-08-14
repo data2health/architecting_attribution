@@ -26,9 +26,9 @@ ____________
 ____________
 **Some of our Community Engagement Plans**
 
-* We will contact all CD2H participants who’ve onboarded and indicated interest in this project, say hi, remind them of our github and direct them there. 
-* We will contact people who have indicated interest in our project but never onboarded, share our github repo. 
-* Make use of #Attribution on [CD2H Slack](https://cd2h.slack.com/messages).  This channel will be used to chat about the project, answer questions, be a community spot. We'll also share relevant files, presentations, announcements for feedback, networking 
+* We have contacted all CD2H participants who’ve onboarded and indicated interest in this project to say hi, remind them of our github, and direct them there. 
+* We have also contacted people who have indicated interest in our project but never onboarded, share our github repo. 
+* Make use of #Attribution on [CD2H Slack](https://cd2h.slack.com/messages).  This channel will be used to chat about the project, answer questions, be a community spot. We'll also share relevant files, presentations, announcements for feedback, networking. 
 * Social coding - Use Github to communicate, share work and collaborate with above mentioned communities
 * Make it easy. We'll be sure to tag people who’ve expressed interest in helping with a certain aspect of the project. 
 * Collaboration with CD2H Partners - Bi-weekly sprint planning meetings
