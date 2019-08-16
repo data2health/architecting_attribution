@@ -3,8 +3,8 @@
 ## Lead(s)
 Name | GitHub Handle | Site
 -- | -- | --
-Kristi Holmes | [kristiholmes](http://github.com/kristiholmes) | Northwestern
 Dave Eichmann | [eichmann](http://github.com/eichmann) | Iowa
+Kristi Holmes | [kristiholmes](http://github.com/kristiholmes) | Northwestern
 
 ## Contributor(s)
 Name | GitHub Handle | Site
@@ -15,6 +15,7 @@ Ken Gersing | [KenGersing](https://github.com/KenGersing) | NCATS
 Melissa Haendel | [mellybelly](http://github.com/mellybelly) | OHSU
 Chaoqun Ni | [nichaoqun](https://github.com/nichaoqun) | Iowa
 Lisa O'Keefe | [LisaOKeefe1](https://github.com/LisaOKeefe1) | Northwestern
+Laura Paglione | [lpaglione](https://github.com/lpaglione) | Spherical
 Joelen Pastva | [jpastva](https://github.com/jpastva) | Northwestern
 Svetlana Rojevsky | [github.com](http://github.com) | Tufts
 Juliane Schneider | [pitviper6](http://github.com/pitviper6) | Harvard
@@ -26,13 +27,18 @@ Marijane White | [marijane](https://github.com/marijane) | OHSU
 ## Mailing list only
 Name | GitHub Handle | Site
 -- | -- | --
+Michael Bales | [michaelbales1](http://github.com/michaelbales1) | Cornell
 Tom Campion | [github.com](http://github.com) | Cornell
+Jack Chang | [ab2cw](https://github.com/ab2cw) | URMC
 Connor Cook | [cgcook](https://github.com/cgcook) | OHSU
+Catherine  Craven | [github.com](http://github.com) | Icahn
 James Eddy | [jaeddy](https://github.com/jaeddy) | Sage
 Peter Elkin | [github.com](http://github.com) | UBuffalo
 David Ellison | [dhekidney](http://github.com/dhekidney) | OHSU
 Shahim Essaid | [ShahimEssaid](http://github.com/ShahimEssaid) | OHSU
 Tamas Gal | [tsgal](https://github.com/tsgal) | CCTR
+Randy Grout | [randallgrout](https://github.com/randallgrout) | Indiana
+Brenda Kostelecky | [bdkostelecky](http://github.com/bdkostelecky) | Hutch
 Nitin Parikh | [github.com](http://github.com) | UCDavisHealth
 Philip Payne | [prpayne5](http://github.com/prpayne5) | WashU
 Rose Relevo | [RoseRelevo](https://github.com/RoseRelevo) | OHSU
