@@ -27,6 +27,7 @@ Marijane White | [marijane](https://github.com/marijane) | OHSU
 ## Mailing list only
 Name | GitHub Handle | Site
 -- | -- | --
+Chris Amos | [github.com](http://github.com) | Baylor
 Michael Bales | [michaelbales1](http://github.com/michaelbales1) | Cornell
 Tom Campion | [github.com](http://github.com) | Cornell
 Jack Chang | [ab2cw](https://github.com/ab2cw) | URMC
