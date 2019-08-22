@@ -10,6 +10,7 @@ Welcome! We're glad you joined us and look forward to working together and heari
 * See other ways to [engage](https://github.com/data2health/architecting_attribution/blob/master/engagement.md)
 * Contact [Kristi](https://github.com/kristiholmes) with questions or to chat more about the project.
 * more links (including activities and deliverables) below. 
+
 ===================================================================================
 
 
