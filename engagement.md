@@ -4,7 +4,7 @@ Thanks for being interested in the work we are doing. We’re glad you’re here
  
  * Investigate [WikiData publication types](https://github.com/data2health/architecting_attribution/issues/39)
  * Investigate [COAR vocabularies](https://github.com/data2health/architecting_attribution/issues/38)
- * [Feedback and brainstorming](https://github.com/data2health/architecting_attribution/issues/42). What else can we be doing with this project? Where would you like to see us focus? What do you want to help   create? 
+ * [Feedback and brainstorming](https://github.com/data2health/architecting_attribution/issues/42). What else can we be doing with this project? Where would you like to see us focus? What do you want to help create? 
 
  If you don’t see exactly what you want to be doing, please know that as we progress in the project our needs will change. 
 
@@ -28,7 +28,7 @@ ____________
 
 * We have contacted all CD2H participants who’ve onboarded and indicated interest in this project to say hi, remind them of our github, and direct them there. 
 * We have also contacted people who have indicated interest in our project but never onboarded, share our github repo. 
-* Make use of #Attribution on [CD2H Slack](https://cd2h.slack.com/messages).  This channel will be used to chat about the project, answer questions, be a community spot. We'll also share relevant files, presentations, announcements for feedback, networking. 
+* Make use of #Attribution on [CD2H Slack](https://cd2h.slack.com/messages).  This channel is used to chat about the project, answer questions, be a community spot. We'll also share relevant files, presentations, announcements for feedback, networking. 
 * Social coding - Use Github to communicate, share work and collaborate with above mentioned communities
 * Make it easy. We'll be sure to tag people who’ve expressed interest in helping with a certain aspect of the project. 
 * Collaboration with CD2H Partners - Bi-weekly sprint planning meetings
