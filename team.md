@@ -40,7 +40,7 @@ Shahim Essaid | [ShahimEssaid](http://github.com/ShahimEssaid) | OHSU
 Tamas Gal | [tsgal](https://github.com/tsgal) | CCTR
 Randy Grout | [randallgrout](https://github.com/randallgrout) | Indiana
 Brenda Kostelecky | [bdkostelecky](http://github.com/bdkostelecky) | Hutch
-Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | #N/A
+Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | UPenn
 Nitin Parikh | [github.com](http://github.com) | UCDavisHealth
 Philip Payne | [prpayne5](http://github.com/prpayne5) | WashU
 Rose Relevo | [RoseRelevo](https://github.com/RoseRelevo) | OHSU
