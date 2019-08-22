@@ -7,7 +7,7 @@ Welcome! We're glad you joined us and look forward to working together and heari
 * Join us on the [#Attribution channel](https://cd2h.slack.com/messages/CE75A2EF3) on [CD2H Slack](https://cd2h.slack.com/messages).  This channel is used to chat about the project, answer questions, be a community spot. We'll also share relevant files, presentations, announcements for feedback, networking. 
 * [Feedback and brainstorming](https://github.com/data2health/architecting_attribution/issues/42). What else can we be doing with this project? Where would you like to see us focus? What do you want to help create? 
 * See other ways to [engage](https://github.com/data2health/architecting_attribution/blob/master/engagement.md)
-* Contact [Kristi](https://github.com/kristiholmes) with questions or to chat more about the projec
+* Contact [Kristi](https://github.com/kristiholmes) with questions or to chat more about the project.
 * more links (including activities and deliverables) below. 
 
 ## Problem statement
