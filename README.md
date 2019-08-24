@@ -1,18 +1,15 @@
 # Architecting Attribution 
 
-===================================================================================
-Welcome! We're glad you joined us and look forward to working together and hearing your thoughts about how we improve credit and incentives for interdisciplinary team members. 
+### Welcome!
 
-*There are lots of ways that you can get involved:*
+We're glad you joined us. There are lots of ways that you can get involved:
 
-* Join us on the [#Attribution channel](https://cd2h.slack.com/messages/CE75A2EF3) on [CD2H Slack](https://cd2h.slack.com/messages).  This channel is used to chat about the project, answer questions, be a community spot, and share relevant files or announcements.
-* [Feedback and brainstorming](https://github.com/data2health/architecting_attribution/issues/42)! What else can we be doing with this project? Where would you like to see us focus? What do you want to help create? 
-* See other ways to [engage](https://github.com/data2health/architecting_attribution/blob/master/engagement.md)
+* Join us on the [#Attribution channel](https://cd2h.slack.com/messages/CE75A2EF3) on [CD2H Slack](https://cd2h.slack.com/messages) to chat about the project, ask/answer questions, network, and share relevant files or announcements.
+* More details about engaging with the Attribution team can be found [here](https://github.com/data2health/architecting_attribution/blob/master/engagement.md)
+* [Feedback and brainstorming](https://github.com/data2health/architecting_attribution/issues/42)! What else can we be doing with this project? Where would you like to see us focus? What do you want to help create? How can we improve credit and incentives for interdisciplinary team members?
 * Contact [Kristi](https://github.com/kristiholmes) with questions or to chat more about the project.
-* more links (including activities and deliverables) below. 
 
-===================================================================================
-
+_______________
 
 ## Problem statement
 It is very difficult to know who is contributing to research and what those contributions are. This project will enable the tracking and attribution of diverse contributions across the workforce to support credit for work, better understanding of what skills and activities are needed, and to incentivize participation.
