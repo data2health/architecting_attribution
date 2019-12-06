@@ -51,7 +51,9 @@ David Hanauer | [github.com](http://github.com) | UMichigan
 Vojtech Huser | [vojtechhuser](https://github.com/vojtechhuser) | NLM
 Brenda Kostelecky | [bdkostelecky](http://github.com/bdkostelecky) | Hutch
 Patricia Kovatch | [](http://github.com/) | MountSinai
+Rebecca Laird | [github.com](http://github.com) | CLIC
 Leslie Lenert | [LAL200](https://github.com/LAL200) | MUSC
+Prasanth Manukonda | [github.com](http://github.com) | Rockefeller
 Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | UPenn
 Eric Miller | [squishymedia](https://github.com/squishymedia) | SquishyMedia
 Nitin Parikh | [github.com](http://github.com) | UCDavisHealth
