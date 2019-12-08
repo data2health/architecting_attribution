@@ -1,14 +1,6 @@
 # Welcome to Architecting Attribution # 
 
-Thanks for being interested in the work we are doing. We’re glad you’re here and look forward to your contributions. You don’t need to code to contribute to our project. At present, we are looking for your help in the following areas:
- 
- * Investigate [WikiData publication types](https://github.com/data2health/architecting_attribution/issues/39)
- * Investigate [COAR vocabularies](https://github.com/data2health/architecting_attribution/issues/38)
- * [Feedback and brainstorming](https://github.com/data2health/architecting_attribution/issues/42). What else can we be doing with this project? Where would you like to see us focus? What do you want to help create? 
-
- If you don’t see exactly what you want to be doing, please know that as we progress in the project our needs will change. 
-
-If you are interested in participating, and haven’t done so yet, please onboard 
+Thanks for being interested in the work we are doing. We’re glad you’re here and look forward to your contributions. You don’t need to code to contribute to our project. If you are interested in participating, and haven’t done so yet, please onboard 
 [here](http://bit.ly/cd2h-onboarding-form). This will ensure sure you have the information and access you need to partner with us. 
 
 To make your first contribution, please look for the label, **“Good first issue”**.  
@@ -22,20 +14,17 @@ ____________
 **Audience**
 * CTSAs
 * CD2H Partners
+* anyone interested in better tools to support attribution
 
 ____________
 **Some of our Community Engagement Plans**
 
-* We have contacted all CD2H participants who’ve onboarded and indicated interest in this project to say hi, remind them of our github, and direct them there. 
-* We have also contacted people who have indicated interest in our project but never onboarded, share our github repo. 
+* Support conversations around attribution broadly through FORCE11's [Attribution Working Group](https://www.force11.org/group/attributionwg)
 * Make use of #Attribution on [CD2H Slack](https://cd2h.slack.com/messages).  This channel is used to chat about the project, answer questions, be a community spot. We'll also share relevant files, presentations, announcements for feedback, networking. 
 * Social coding - Use Github to communicate, share work and collaborate with above mentioned communities
 * Make it easy. We'll be sure to tag people who’ve expressed interest in helping with a certain aspect of the project. 
 * Collaboration with CD2H Partners - Bi-weekly sprint planning meetings
 * Collaboration with CD2H Partners - Daily stand up with team members
-* Conferences/Workshops - Attribution workshop in Chicago (Fall 2019)
-* Conferences/Workshop - Metadata workshop at Scripps (TBD)
-* Conferences/Workshops - Attend Open Source Conference-[OSCON](https://conferences.oreilly.com/oscon/oscon-or)(Summer 2019)
 * Create documentation and support for the community
 * Periodic briefs and/or presentations to key stakeholders
 * Social media  - Share updates and/or examples of work through blog posts, [Twitter](https://www.twitter.com/data2health), newsletters. 
