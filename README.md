@@ -7,7 +7,7 @@ We're glad you joined us. Feedback and brainstorming is welcomed! What do you wa
 * Join us on the [#Attribution channel](https://cd2h.slack.com/messages/CE75A2EF3) on [CD2H Slack](https://cd2h.slack.com/messages) to chat about the project, ask/answer questions, network, and share relevant files or announcements.
 * The [contribution data model and related components](https://contributor-attribution-model.readthedocs.io/en/latest/) are actively being developed. Please check it out, we welcome input and feedback.
 * Check out [Draft Contribution Model Specification](https://docs.google.com/document/d/1jMISwIFNj38AUfNZZbT_Osq7vrkmqZYsJ4ubmqEbOa8/edit)
-* Learn how to [engage with the team](https://github.com/data2health/architecting_attribution/blob/master/engagement.md)
+* Learn ways to [engage with the team](https://github.com/data2health/architecting_attribution/blob/master/engagement.md)
 * Contact [Kristi](https://github.com/kristiholmes) with questions or to chat more about the project.
 
 _______________
