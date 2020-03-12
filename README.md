@@ -1,8 +1,8 @@
-# Architecting Attribution 
+# Architecting Attribution (Phase 2)
 
 ### Welcome!
 
-We're glad you joined us. Feedback and brainstorming is welcomed! What do you want to help create? How can we improve credit and incentives for interdisciplinary team members? There are lots of ways that you can get involved:
+Architecting Attribution is no longer an active CD2H project. Despite this, we're glad you joined us and are still happy to hear from you. Feedback and brainstorming is welcomed! What do you want to help create? How can we improve credit and incentives for interdisciplinary team members? There are lots of ways that you can get involved:
 
 * Join us on the [#Attribution channel](https://cd2h.slack.com/messages/CE75A2EF3) on [CD2H Slack](https://cd2h.slack.com/messages) to chat about the project, ask/answer questions, network, and share relevant files or announcements.
 * The [contributor attribution model and related components](https://contributor-attribution-model.readthedocs.io/en/latest/) are actively being developed. Please check it out, we welcome input and feedback.
@@ -13,16 +13,15 @@ We're glad you joined us. Feedback and brainstorming is welcomed! What do you wa
 _______________
 
 ## Problem statement
-It is very difficult to know who is contributing to research and what those contributions are. This project will enable the tracking and attribution of diverse contributions across the workforce to support credit for work, better understanding of what skills and activities are needed, and to incentivize participation.
+It is very difficult to know who is contributing to research and what those contributions are. This project enabled the tracking and attribution of diverse contributions across the workforce to support credit for work, better understanding of what skills and activities are needed, and to incentivize participation.
 
 ## Project description
-There has been a fundamental shift to recognize both the interdisciplinary, team-based approach to science as well as the hundreds and thousands of more fine-grained contributions of varying types and intensities that are necessary to move science forward.  Unfortunately, little infrastructure exists to identify, aggregate, present, and (ultimately) assess the impact of these contributions. These significant problems are technical as well as social and require an approach that assimilates cultural and social aspects of these problems in an open and community-driven manner. Ongoing efforts include  the development of a [contribution role ontology](https://github.com/data2health/contributor-role-ontology) (built on CRedIT through the [CRedIT ontology](https://github.com/data2health/credit-ontology)) to support modeling of the significant ways in which the translational workforce contributes to research; better understanding of the types of research objects generated; and mining of acknowledgements section of publications to harvest existing contributor roles to serve as a data source to drive additional development. All work is carried out in a collaborative, open, and friendly manner - with an eye toward making credit and attribution easier for everyone.
+There has been a fundamental shift to recognize both the interdisciplinary, team-based approach to science as well as the hundreds and thousands of more fine-grained contributions of varying types and intensities that are necessary to move science forward.  Unfortunately, little infrastructure exists to identify, aggregate, present, and (ultimately) assess the impact of these contributions. These significant problems are technical as well as social and require an approach that assimilates cultural and social aspects of these problems in an open and community-driven manner. Ongoing efforts include  the development of a [contribution role ontology](https://github.com/data2health/contributor-role-ontology) (built on CRedIT through the [CRedIT ontology](https://github.com/data2health/credit-ontology)) to support modeling of the significant ways in which the translational workforce contributes to research; better understanding of the types of research objects generated; and mining of acknowledgements section of publications to harvest existing contributor roles to serve as a data source to drive additional development. All work was carried out in a collaborative, open, and friendly manner - with an eye toward making credit and attribution easier for everyone.
 
 ## Alignment to program objectives
 This work helps to support and enhance a collaborative informatics community by fostering and promoting the development of an academic attribution and reimbursement framework for informatics products and processes. These processes could facilitate  the contribution to be used for academic promotion and recognition.
 
 ## Want to work with us? Get involved
-* Please [visit our Engagement page](https://github.com/data2health/architecting_attribution/blob/master/engagement.md) to learn more about our needs, how to get on board, good first contributions, and more! We're excited to have you join us.
 
 * Want to ask a question or just say hi? Please do! If you have already onboarded you can find us on the #Attribution channel on the [CD2H Slack](https://cd2h.slack.com/messages)
 
