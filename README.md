@@ -2,7 +2,7 @@
 
 ### Welcome!
 
-Architecting Attribution is no longer an active CD2H project. Despite this, we're glad you joined us and are still happy to hear from you. Feedback and brainstorming is welcomed! What do you want to help create? How can we improve credit and incentives for interdisciplinary team members? There are lots of ways that you can get involved:
+Architecting Attribution is no longer an active CD2H project. Despite this, we're glad you joined us and are still happy to hear from you. 
 
 * Join us on the [#Attribution channel](https://cd2h.slack.com/messages/CE75A2EF3) on [CD2H Slack](https://cd2h.slack.com/messages) to chat about the project, ask/answer questions, network, and share relevant files or announcements.
 * The [contributor attribution model and related components](https://contributor-attribution-model.readthedocs.io/en/latest/) are actively being developed. Please check it out, we welcome input and feedback.
