@@ -40,3 +40,33 @@ This team has two integral members who are allocated at a small percentage to th
 
 # Potential Pitfalls and Alternative Strategies
 **Demonstration project.** We don’t have a clear picture of the demonstration project development process or responsible party. We’re developing a person-based process for identifying contributor roles, based on the Northwestern Promotion and Tenure documentation, specifically the critical references form, in partnership with the Office of Faculty Affairs, as a guide to faculty members to better identify and claim contributor roles for research objects. This work will allow us to demonstrate the value and power of the data models.
+
+
+# Y3 (July 1, 2019-June 30, 2020) Accomplishments 
+The following content is from the June 30 - Dec 30, 2019 mid year progress report [here](https://docs.google.com/document/d/1LLe3uCfEUakWxIJyi5SA4ZocYDmINvhySTperaui1Bw/edit).  Please add progress for Jan 1 - June 30th, 2020. 
+
+* [CRedIT Ontology](https://github.com/data2health/credit-ontology) 
+    * CRedIT is a simple taxonomy of 14 contributor role concepts and was “ontologized” to make it computable and better able to serve as a framework for the subsequent work needed in the Architecting Attribution project. This work was carried out 04/01/2019 and is in [a GitHub repo](https://github.com/data2health/credit-ontology).  Since this time, the CRedIT ontology has been communicated to key stakeholders in conversations, conference presentations, and email correspondence. 
+
+* Contributor Role Ontology (CRO) released & enhanced.  CRO is available in various ontological resources, such as EBI OLS, bioportal, Ontobee, etc.  CRO is available in multiple formats (OWL, RDF, RDF/XML, csv, etc.):
+    * The Contributor Role Ontology (CRO) is a structured representation of contribution roles, built on the CRedIT taxonomy, for use in research information systems and designed for crediting persons or organizations.  The CRO was first [released](https://data2health.github.io/contributor-role-ontology) on GitHub and [announced](https://www.force11.org/blog/introducing-contribution-role-ontology-developing-sustainable-community-driven-approach) on 8/7/2019. Ongoing enhancements have been made, including the most recent release on 12/11/2019.
+      * CRO on [OBO](https://raw.githubusercontent.com/data2health/contributor-role-ontology/master/cro.owl) (OWL format)
+      * [Ontobee](http://www.ontobee.org/ontology/CRO) - (OWL and OBO)
+      * [Github](https://github.com/data2health/contributor-role-ontology) - (OWL and OBO)
+      * [OLS](https://www.ebi.ac.uk/ols/ontologies/cro) - (OWL format)
+      * [Bioportal](https://bioportal.bioontology.org/ontologies/CRO) (OWL format)
+
+* CRO ready to pilot in research information systems:
+    * With its initial release in spring 2019, the CRO is ready to pilot in Research Information Systems (RIS). This news was communicated to the community through blog posts by Nicole Vasilevsky, including one that was shared by Force11. Since that time, there were subsequent releases in 08/2019 and 12/11/2019.
+
+* Local guide to support attribution in CTS at the hub level - Best practices for attribution and use of attribution are documented in the Reusable Data Guidebook:
+    * The guidebook chapter has been completed and is available [here](https://reusable-data-best-practices.readthedocs.io/en/latest/chapters/chapter_8.html). This guidebook chapter outlines a number of aspects of attribution in biomedical research that are relevant to the person and to the organization.
+
+* An increased knowledge base of contribution / attribution data available
+Summary statement describing the components of the architecting attribution project and how they function together.
+Annotation file format defined. An example will be provided.
+    * A summary statement describing the components of the architecting attribution project and how they function together is provided by the [Contributor Attribution Model](https://contributor-attribution-model.readthedocs.io/). Of particular note is the [description of the information model](https://contributor-attribution-model.readthedocs.io/en/latest/info_model/index.html). 
+The [draft critical references guidance](https://docs.google.com/document/d/10s3nScM4nrL1G00JvuhGTkREEc9mX4_KL0yVP_ZyWP4/edit) is available.
+The [annotation file format](https://docs.google.com/spreadsheets/d/1sqDi2RtErDUqP1ovyV45Cz07vYvxnpyOjwBVJt2k3a8/edit#gid=0) is complete and available. An example has been included.
+
+
