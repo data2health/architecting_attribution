@@ -1,14 +1,11 @@
-# Architecting Attribution (Phase 2)
-
+# CD2H Architecting Attribution
 ### Welcome!
 
-Architecting Attribution is no longer an active CD2H project. Despite this, we're glad you joined us and are still happy to hear from you. 
-
-* Join us on the [#Attribution channel](https://cd2h.slack.com/messages/CE75A2EF3) on [CD2H Slack](https://cd2h.slack.com/messages) to chat about the project, ask/answer questions, network, and share relevant files or announcements.
+* Join the [FORCE11 Working Group](https://www.force11.org/group/attributionwg) to learn more and collabroate on these and related efforts.
+* Join us on the [CD2H Slack](https://cd2h.slack.com/messages) [#Attribution channel](https://cd2h.slack.com/messages/CE75A2EF3) to chat about the CD2H Attribution efforts, ask/answer questions, network, and share relevant files or announcements.
 * The [contributor attribution model and related components](https://contributor-attribution-model.readthedocs.io/en/latest/) are actively being developed. Please check it out, we welcome input and feedback.
      * [CRedIT ontology](https://github.com/data2health/credit-ontology)
      * [Contributor Role Ontology](https://github.com/data2health/contributor-role-ontology)
-* Learn ways to [engage with the team](https://github.com/data2health/architecting_attribution/blob/master/engagement.md) or visit the [FORCE11 Working Group](https://www.force11.org/group/attributionwg) to join the discussion.
 
 _______________
 
@@ -36,7 +33,7 @@ Kristi Holmes (@kristiholmes) | Northwestern
 Lead(s) (github handle) | Site
 ----------|--------------|
 Kristi Holmes (@kristiholmes) | Northwestern
-Dave Eichmann (@eichmann) | Iowa 
+Nicole Vasilevsky (@nicolevasilevsky) | OHSU 
 
 ## Team members 
 
@@ -67,27 +64,4 @@ Repository | Description
   - Summary statement describing the components of the architecting attribution project and how they function together. 
   - Annotation file format defined. An example will be provided.
 
-## Milestones 
-
-View the project [milestones here](https://github.com/data2health/architecting_attribution/milestones)
-
-## Engagement
-
-Our engagement efforts can be found [here](https://github.com/data2health/architecting_attribution/blob/master/engagement.md).
-
-## Evaluation
-
-Our evaluation plan can be found [here](https://github.com/data2health/architecting_attribution/blob/master/evaluation.md).
-
-## Education
-
-Our education plan can be found [here](https://github.com/data2health/architecting_attribution/blob/master/education.md).
-
-## Code of Conduct
-Our Code of Conduct is found [here](https://github.com/data2health/architecting_attribution/blob/master/CodeOfConduct.md)
-
-## Working documents
-The project [Google drive folder](https://drive.google.com/drive/folders/1KYBGNq5VY-7366M9PFFbZCcY2sTgA-nh) is accessible to onboarded participants. 
-
-## Slack room
-[The Architecting Attribution slack room](https://cd2h.slack.com/messages/CE75A2EF3) is accessible to onboarded participants. You will not automatically be added to Slack, please join via the link above. If you want to know more, our Engagement link above is a great place to start. 
+## [milestones](https://github.com/data2health/architecting_attribution/milestones) | [engagement](https://github.com/data2health/architecting_attribution/blob/master/engagement.md) | [evaluation](https://github.com/data2health/architecting_attribution/blob/master/evaluation.md) | [education](https://github.com/data2health/architecting_attribution/blob/master/education.md) | [code of conduct](https://github.com/data2health/architecting_attribution/blob/master/CodeOfConduct.md) | [working documents](https://drive.google.com/drive/folders/1KYBGNq5VY-7366M9PFFbZCcY2sTgA-nh) 
